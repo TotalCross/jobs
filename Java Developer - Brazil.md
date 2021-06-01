@@ -9,9 +9,7 @@ Startup brasileira, afiliada a Linux Foundation, com filial em Portugal, colabor
 
 Criamos tecnologia para facilitar a vida do desenvolvedor de software (de dev pra dev =P) e temos uma stack bem variada incluindo Visão Computacional, C, Java, iOS, Android, Kotlin, Python, Linux, Raspberry Pi, MCUs e mais.
 
-Acreditamos que para formentar a criatividade diferentes tipos de vivência são fundamentais, por isso toda diversidade é bem-vinda e prioritária
-
-**Acreditamos que pessoas com diferentes tipo de vivência seja fundamental para formentar a criatividade, por isso toda diversidade é bem vinda e prióritaria, especialmente mulheres.** 
+**Acreditamos que para formentar a criatividade diferentes tipos de vivência são fundamentais, por isso toda diversidade é bem-vinda e prioritária, especialmente mulheres.**
 
 ## Sobre a Vaga
 
