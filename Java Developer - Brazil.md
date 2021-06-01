@@ -17,30 +17,43 @@ Salário a combinar
 ## Principais Responsabilidades
 
 Desenvolvimento da API Java;
+
 Desenvolvimento da VM TotalCross em C;
+
 Criar e revisar documentações;
+
 Testes unitários e testes automatizados;
+
 Contribuir para melhorias no processo de desenvolvimento da empresa;
+
 Participar de projetos com clientes estratégicos.
 
 ## Tempo de experiência na função: 5 anos como desenvolvedor.
 
 Desenvolvimento de projetos embarcados e IoT (Desejável);
+
 Experiência em desenvolvimento em Java e C (essencial);
 
 ## Conhecimentos Necessários
 
 Conhecimento das linguagens: Java e C
+
 Ferramentas de build (Gradle, Maven);
+
 GIT
 
 ## Conhecimentos Desejáveis
 
 Ter experiência com swift ou objective C
+
 Docker
+
 Linux ARM
+
 Ter experiência com sistemas embarcados (Raspberry Pi, arduino, beaglebone e etc)
+
 Contribuir com algum projeto open source
+
 Capaz de se comunicar em inglês
 
 PS: Saber jogar AOE2 será um diferencial =P
