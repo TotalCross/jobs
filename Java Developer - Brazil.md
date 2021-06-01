@@ -3,7 +3,11 @@
 
 ## QUEM SOMOS
 
-TotalCross é uma tecnologia open source para a criação de aplicativos para IoT/embarcados, Mobile e Desktop. Startup brasileira, afiliada a Linux Foundation, com filial em Portugal, colaboradores em 3 países e usuários/cliente em mais de 10 países.
+TotalCross é uma tecnologia open source para a criação de aplicativos para IoT/embarcados, Mobile e Desktop. 
+
+Startup brasileira, afiliada a Linux Foundation, com filial em Portugal, colaboradores em 3 países e usuários/cliente em mais de 10 países.
+
+Criamos tecnologia para facilitar a vida do desenvolvedor de software (de dev pra dev =P) e temos uma stack bem variada incluindo Visão Computacional, C, Java, iOS, Android, Kotlin, Python, Linux, Raspberry Pi, MCUs e mais
 
 ## SOBRE A VAGA 
 
@@ -39,3 +43,7 @@ Contribuir com algum projeto open source
 Capaz de se comunicar em inglês
 
 PS: Saber jogar AOE2 será um diferencial =P
+
+## APLIQUE AQUI
+
+mande o seu curriculo para devteam@totalcross.com
