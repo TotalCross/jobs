@@ -11,7 +11,7 @@ Criamos tecnologia para facilitar a vida do desenvolvedor de software (de dev pr
 
 Acreditamos que para formentar a criatividade diferentes tipos de vivência são fundamentais, por isso toda diversidade é bem-vinda e prioritária
 
-**Acreditamos que pessoas com diferentes tipo de vivência seja fundamental para formentar a criatividade por isso toda diversidade é bem vinda e prióritaria.** 
+**Acreditamos que pessoas com diferentes tipo de vivência seja fundamental para formentar a criatividade, por isso toda diversidade é bem vinda e prióritaria.** 
 
 ## Sobre a Vaga
 
