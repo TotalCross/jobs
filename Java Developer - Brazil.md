@@ -13,8 +13,9 @@ Criamos tecnologia para facilitar a vida do desenvolvedor de software (de dev pr
 
 ## Sobre a Vaga
 
-Trabalho 100% remoto no Brasil com possibilidade de trabalhar de Portugal (caso a pessoa tenha esse plano e se destaque)
-Salário a combinar
+* Trabalho 100% remoto no Brasil com possibilidade de trabalhar de Portugal (caso a pessoa tenha esse plano e se destaque)
+
+* Salário a combinar
 
 ## Principais Responsabilidades
 
