@@ -63,4 +63,4 @@ PS: Saber jogar AOE2 será um diferencial =P
 
 ## Aplique Aqui
 
-**mande o seu curriculo para devteam@totalcross.com **
+**mande o seu curriculo para devteam@totalcross.com**
