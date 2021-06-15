@@ -25,7 +25,7 @@ Criamos tecnologia para facilitar a vida do desenvolvedor de software (de dev pr
 
 ## Principais Responsabilidades
 
-* Desenvolvimento da API Java;
+* Desenvolvimento de APIs Java;
 
 * Desenvolvimento de aplicativos (GUI) utilizando Java;
 
