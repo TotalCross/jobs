@@ -1,9 +1,9 @@
 
-# Desenvolvedora Java
+# Pessoa Desenvolvedora Java
 
 ## Quem Somos
 
-TotalCross é uma tecnologia open source para a criação de aplicativos para IoT/embarcados, Mobile e Desktop. 
+TotalCross é uma tecnologia open source para a criação de aplicativos para IoT/embarcados, Mobile e Desktop.
 
 Startup brasileira, afiliada a Linux Foundation, com filial em Portugal, colaboradores em 3 países e usuários/cliente em mais de 10 países.
 
@@ -11,9 +11,15 @@ Criamos tecnologia para facilitar a vida do desenvolvedor de software (de dev pr
 
 **Acreditamos que para formentar a criatividade diferentes tipos de vivência são fundamentais, por isso toda diversidade é bem-vinda e prioritária, especialmente mulheres.**
 
-## Sobre a Vaga
+**Mesmo que você não preencha todos os requisitos abaixo, se inscreva, nós queremos conhecer você =) **
 
-* Trabalho 100% remoto no Brasil com possibilidade de trabalhar de Portugal (caso a pessoa tenha esse plano e se destaque)
+## Sobre a Vaga. Você irá...
+
+* Trabalhar 100% remoto no Brasil com possibilidade de trabalhar de Portugal (caso a pessoa tenha esse plano e se destaque)
+
+* Participar de projetos no Brasil, França e Canadá
+
+* Contribuir com open source
 
 * Salário a combinar
 
@@ -21,7 +27,7 @@ Criamos tecnologia para facilitar a vida do desenvolvedor de software (de dev pr
 
 * Desenvolvimento da API Java;
 
-* Desenvolvimento da VM TotalCross em C;
+* Desenvolvimento de aplicativos (GUI) utilizando Java;
 
 * Criar e revisar documentações;
 
@@ -31,35 +37,38 @@ Criamos tecnologia para facilitar a vida do desenvolvedor de software (de dev pr
 
 * Participar de projetos com clientes estratégicos.
 
-## Tempo de experiência na função: 5 anos como desenvolvedora
+## Tempo de experiência na função: 2 anos como desenvolvedor(a)
 
-* É essencial a experiência em desenvolvimento em Java e C;
-* Desejável experiência no desenvolvimento de projetos embarcados e IoT;
+* É essencial a experiência em desenvolvimento Java;
+
+* É desejável experiência em desenvolvimento de interfaces gráficas com Java (Android ou JavaFX);
 
 ## Conhecimentos Necessários
 
-* Conhecimento das linguagens: Java e C
+* Capacidade de se comunicar em inglês (não precisa ser fluente mas precisa conseguir se comunicar);
+
+* Java e OOP;
+
+* Alto grau de iniciativa e resolução de problemas;
 
 * Ferramentas de build (Gradle, Maven);
 
 * GIT
 
-## Conhecimentos Desejáveis
+## Conhecimentos não obrigatórios mas interessantes
 
-* Ter experiência com swift ou objective C
+* Conhecimentos em sistemas embarcados;
 
-* Docker
+* Conhecimentos em frameworks Java;
 
-* Linux ARM
+* Conhecimentos em SOLID, agile software development, TDD, continuous integration (Jenkins, Gitlab), Graphical User Interface, multi-threaded;
 
-* Ter experiência com sistemas embarcados (Raspberry Pi, arduino, beaglebone e etc)
+* Conhecimentos em outras linguagens de programação;
 
-* Contribuir com algum projeto open source
-
-* Capaz de se comunicar em inglês
+* Contribuir com algum projeto open source;
 
 PS: Saber jogar AOE2 será um diferencial =P
 
 ## Aplique Aqui
 
-**mande o seu curriculo para devteam@totalcross.com**
+**mande o seu curriculo (em inglês) e link do github para devteam@totalcross.com**
