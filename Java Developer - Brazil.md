@@ -37,7 +37,7 @@ Criamos tecnologia para facilitar a vida do desenvolvedor de software (de dev pr
 
 * Participar de projetos com clientes estratégicos.
 
-## Tempo de experiência na função: 2 anos como desenvolvedor(a)
+## Tempo de experiência na função: 3 anos como desenvolvedor(a)
 
 * É essencial a experiência em desenvolvimento Java;
 
